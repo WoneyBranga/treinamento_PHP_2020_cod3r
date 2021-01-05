@@ -1,0 +1,23 @@
+
+.navegacao > a.verde { background-color: #4CAF50; }
+.navegacao > a.vermelho { background-color: #F44336; }
+.navegacao > a.azul { background-color: #2196F3; }
+.navegacao > a.roxo { background-color: #9C27B0; }
+.navegacao > a.laranja { background-color: #FF9800; }
+.navegacao > a.verde-escuro { background-color: #1B5E20; }
+.navegacao > a.vermelho-escuro { background-color: #B71C1C; }
+.navegacao > a.azul-escuro { background-color: #0D47A1; }
+.navegacao > a.roxo-escuro { background-color: #4A148C; }
+
+.conteudo {
+    font-size: 2rem;
+}
+
+.conteudo > .titulo {
+    font-size: 2.5rem;
+    font-weight: 300;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #999;
+    margin-bottom: 20px;
+}
+
